@@ -1,3 +1,1 @@
-Essa API irá conter os nomes de todos os tranformers:
-    * Citados nos Filmes
-    * Citados nas HQ's
+   Nessa API estarei listando todos os transformers (**Autobots** e **Decepticons**).  Os dados terão como base as *HQ*'s e *filmes*.
